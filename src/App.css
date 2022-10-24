@@ -1,0 +1,38 @@
+#header{
+  background-color: #141b4c;
+  color: white;
+  text-align: start;
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
+#header img{
+  padding: 20px;
+}
+#img2{
+  float: right;
+}
+#header h1{
+  width: 35%;
+  font-size: 80px;
+}
+
+#header p{
+  width: 25%;
+  font-size: 20px;
+}
+
+#header button{
+  height: 50px;
+  width: 150px;
+  font-size: 20px;
+  margin-top: 20px;
+}
+.seccion{
+  display: flex;
+  justify-content: space-between;
+}
+
+.seccionIndividual {
+  width: 20%;
+  text-align: center;
+}
